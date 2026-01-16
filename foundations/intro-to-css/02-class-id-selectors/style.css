@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.odd{
+    background-color: pink;
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+.number3{
+    font-size: 24px;
+}
+#kettes{
+    color: blue;
+    font-size: 36px;
+}
+#negyes{
+    color:lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
